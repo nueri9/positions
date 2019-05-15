@@ -1,0 +1,22 @@
+.relative {
+
+position: relative;
+height: 100px;
+width: 100%;
+box-sizing: border-box;
+border: 2px solid black;
+background: powderblue;
+
+}
+
+#box1_abs {
+    position: absolute;
+    height: 50px;
+    width: 20%;
+    box-sizing: border-box;
+    left: 25px;
+    bottom: 0px;
+    background: red;
+
+
+}
